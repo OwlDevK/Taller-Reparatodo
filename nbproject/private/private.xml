@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/proyecto_tallerreparatodo/Menu.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>49</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/proyecto_tallerreparatodo/CajaFacturacion/clsTarjetaCredito.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>109</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/kennethporras/Documents/GitHub/UFidelitas/Ufide_Taller_ReparaTodo/src/proyecto_tallerreparatodo/StakeHolder/clsCliente.java</file>
+            <file>file:/Users/kennethporras/Documents/GitHub/UFidelitas/Ufide_Taller_ReparaTodo/src/proyecto_tallerreparatodo/Menu.java</file>
+            <file>file:/Users/kennethporras/Documents/GitHub/UFidelitas/Ufide_Taller_ReparaTodo/src/proyecto_tallerreparatodo/StakeHolder/ifzAutenticable.java</file>
+            <file>file:/Users/kennethporras/Documents/GitHub/UFidelitas/Ufide_Taller_ReparaTodo/src/proyecto_tallerreparatodo/StakeHolder/clsStakeHolder.java</file>
+            <file>file:/Users/kennethporras/Documents/GitHub/UFidelitas/Ufide_Taller_ReparaTodo/src/proyecto_tallerreparatodo/StakeHolder/clsCajero.java</file>
+            <file>file:/Users/kennethporras/Documents/GitHub/UFidelitas/Ufide_Taller_ReparaTodo/src/proyecto_tallerreparatodo/StakeHolder/clsEmpleado.java</file>
+            <file>file:/Users/kennethporras/Documents/GitHub/UFidelitas/Ufide_Taller_ReparaTodo/src/proyecto_tallerreparatodo/StakeHolder/clsBaseDatosStakeHolder.java</file>
+            <file>file:/Users/kennethporras/Documents/GitHub/UFidelitas/Ufide_Taller_ReparaTodo/src/proyecto_tallerreparatodo/StakeHolder/ifzStakeHolder.java</file>
+            <file>file:/Users/kennethporras/Documents/GitHub/UFidelitas/Ufide_Taller_ReparaTodo/src/proyecto_tallerreparatodo/StakeHolder/clsClienteJuridico.java</file>
+        </group>
+    </open-files>
+</project-private>
